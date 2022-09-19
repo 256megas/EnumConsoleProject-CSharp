@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\bin\Debug\netcoreapp3.1\EnumClassesConsoleProject.exe
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\bin\Debug\netcoreapp3.1\EnumClassesConsoleProject.deps.json
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\bin\Debug\netcoreapp3.1\EnumClassesConsoleProject.runtimeconfig.json
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\bin\Debug\netcoreapp3.1\EnumClassesConsoleProject.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\bin\Debug\netcoreapp3.1\EnumClassesConsoleProject.dll
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\bin\Debug\netcoreapp3.1\EnumClassesConsoleProject.pdb
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.AssemblyInfo.cs
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.dll
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.pdb
+C:\xampp\htdocs\C#\EnumClassesConsoleProject\obj\Debug\netcoreapp3.1\EnumClassesConsoleProject.genruntimeconfig.cache
